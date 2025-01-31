@@ -6,6 +6,8 @@ git add .
 
 git status
 
-git commit -n "atualizacao"
+git commit -m "atualizacao"
 
 git push
+
+finish

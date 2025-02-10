@@ -1,0 +1,13 @@
+#principais comandos do Powershell no Linux Mint
+#Site de referências dos comandos do Powershell: https://ss64.com/ps/
+Get-Date        - informações de data e hora do linux
+Get-Host        - informações detalhadas do PowerShell
+Get-Location    - informações da localização (Path)
+Get-PSDrive     - informações do Hard Disk
+Get-Process     - informações de processos
+Get-Uptime      - informações do tempo de uso do linux
+Get-Command     - lista todos os comandos que estão disponíveis
+Get-Module      - lista todos os módulos que estão disponíveis
+Get-History     - imprimir todo o histórico de comandos do PowerShell
+dir ou ls       - lista o conteúdo do diretório
+exit            - sair do PowerShell

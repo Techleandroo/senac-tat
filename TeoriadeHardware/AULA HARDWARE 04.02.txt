@@ -1,0 +1,200 @@
+AULA HARDWARE 04.02.2025
+
+
+Falando sobre fontes: 
+
+80 plus 
+
+Que atende a padrões de eficiência energética. O selo 80 Plus - indica que a fonte é capaz de operar com pelo menos 80% de eficiência
+em cargas de 20%, 50% e 100%. Isso significa que menos energia é desperdiçada na forma de calor, resultando em menor consumo de energia e,
+consequentemente, em contas de eletricidade mais baixas. Além disso, fontes com certificação 80 Plus geralmente têm melhor qualidade de 
+componentes e maior durabilidade. Existem diferentes níveis de certificação, como 80 Plus Bronze, Silver, Gold, Platinum e Titanium,
+ que indicam níveis crescentes de eficiência.
+
+
+pfc ativo: pesquisar
+
+oque é certificação cybenetics 
+
+É um sistema que avalia a eficiência da fonte.
+
+em uma frequencia de 110v e 230v e 1500 combinações de cargas
+
+e eles clasifica de ETA= mais eficiente a ETA D = menos eficiente
+
+outro diferencial da cybernetics é avaliar o nivel de ruido da psu 
+e clasificam em LAMBDA A++ (mais eficiente) D (menos eficiente)
+
+se quisermos uma fonte realmente eficiente e silenciosa vale a pena verificar a certificação do que apenas olha o selo 80 plus.
+
+resumo geral 
+
+
+entre as pesquisas de eficiencia pela cybenetics tem a pesquisa do riple
+
+riple: ruido danoso, quando a fonte gera energia ela transmite ruido prejudicando interferencia nos componente
+
+se o riple tiver alto pode ser que a energia nociva prejudique os componentes eletronicos.
+
+
+ou seja o selo 80 plus tbm é um sistema que avalia a eficiencia porém de uma forma mais simples e a cybernetics tem mt mais informações tornando a certificação mais rigorosa e com fontes de qualidades.
+
+oque é dc dc ?
+
+sao fontes mais estaveis pois:
+Quando nos referimos a fontes com DC-DC, estamos falando de fontes de alimentação que utilizam conversores DC-DC para transformar
+ uma tensão de entrada (geralmente uma tensão DC obtida após a retificação do AC) em outras tensões DC necessárias para os componentes
+  do sistema, como 12V, 5V e 3.3V.
+
+
+  capacitores dentro da fonte: quanto maior a Voltagem do capacitor melhor é: uma fonte com um capacitor que funciona com 100 graus é mt melhor que uma de 80 
+
+  Aula 11.02.2025
+
+  pesquisar sobre os modelos da placa de video nvidia atual serie 50 e serie 40
+  falar sobre a tecnologia 
+  modelo 
+  preço 
+
+  melhor placa da linha 40 com os preço acessivel 
+
+  placa de video é um equipamento de processamento não apenas para transmisão de video
+
+
+LINHA NVIDIA SERIE 40
+
+As placas de vídeo da série NVIDIA GeForce RTX 40 são baseadas na arquitetura Ada Lovelace. Elas são voltadas para games, criação de conteúdo e inteligência artificial, com destaque para tecnologias como DLSS 3, ray tracing aprimorado e maior eficiência energética.
+Essa arquitetura ADA foi projetada para oferecer um um desempenho para revolucionário para RAY TRANCING e GRAFICOS EM IA. Ou seja tem um desempenho muito maior no ponto de ray tracing. 
+TENDO NAS PLACAS:
+Tensor de cores de 4 geração: acelera a tecnologia de AI
+DLSS3 e 3.5: tecnologia oferecida por AI que aumenta imensamente o desempenho dobrando ou ate triplicando o fps em jogos.
+Ray trancing melhorado: responsável na melhoria de reflexos sombras e iluminação global. Muito mais fluido e são a melhor tecnologia para jogos com RT ATIVADO.
+
+Frame Generation: Cria novos frames com IA
+
+NVIDIA REFLEX: reduz o tempo de resposta tendo menos latência no clique e ação de tela.  Muito bom para quem joga jogos de fps.
+Ex: reduzindo a latência de 25ms para 10ms dando muita vantagem competitiva.
+
+NVENC de 8 geração: melhor qualidade para streaming e vídeos com uma qualidade absurda por ter suporte AV1
+
+PCIe Gen4: compatível com pcie 4.0 garantindo mais largura de banda.
+
+
+
+
+Principais Modelos da Série RTX 40
+Topo de Linha (Alta Performance)
+RTX 4090 – A mais poderosa da série, voltada para 4K e aplicações exigentes.
+RTX 4080 SUPER – Performance próxima à 4090, mas com menor custo.
+RTX 4080 – Boa opção para games em 4K e trabalho profissional.
+Intermediários (Ótimo Custo-benefício)
+•	RTX 4070 Ti SUPER – Versão melhorada da 4070 Ti.
+•	RTX 4070 Ti – Alternativa potente para games em 1440p e até 4K.
+•	RTX 4070 SUPER – Um pouco acima da 4070.
+•	RTX 4070 – Excelente para 1440p com ótimo equilíbrio entre desempenho e consumo.
+Entrada/Médio Desempenho (Custo Acessível)
+•	RTX 4060 Ti (16GB e 8GB) – Boa para 1080p e 1440p.
+•	RTX 4060 – Focada em Full HD com DLSS 3 para aumentar desempenho.
+
+Preços:
+1️⃣ Melhor Custo-Benefício Geral: RTX 4070 SUPER
+💰 Faixa de preço: ~ R$ 3.500 - R$ 4.000
+⚡ Desempenho: Equivalente à RTX 3090 com menor consumo de energia.
+🎮 Ideal para: Jogos em 1440p Ultra e até 4K com DLSS 3.
+✅ Prós:
+✔ Ótima eficiência energética (220W).
+✔ Suporte a DLSS 3 para mais FPS.
+✔ Mais VRAM (12GB) que a 4060 Ti, ideal para games pesados.
+❌ Contras:
+✖ Preço um pouco mais alto que a 4060 Ti.
+________________________________________
+2️⃣ Opção mais barata e ainda boa: RTX 4060 Ti 16GB
+💰 Faixa de preço: ~ R$ 2.500 - R$ 3.200
+⚡ Desempenho: Similar à RTX 3070 com DLSS 3.
+🎮 Ideal para: Jogos em 1440p High/Ultra e 1080p Ultra.
+✅ Prós:✔ Consome pouca energia (160W).
+✔ DLSS 3 ajuda em jogos exigentes.
+✔ Versão de 16GB VRAM tem mais longevidade.
+❌ Contras:
+✖ O barramento de memória (128-bit) pode limitar desempenho em alguns casos.
+✖ A versão 8GB pode sofrer com jogos futuros mais pesados.
+3️⃣ Opção econômica para Full HD: RTX 4060
+💰 Faixa de preço: ~ R$ 1.800 - R$ 2.300
+⚡ Desempenho: Próxima da RTX 3060 Ti.
+🎮 Ideal para: Jogos em 1080p Ultra e 1440p com ajustes.
+✅ Prós:
+✔ Super eficiente (115W de consumo).
+✔ DLSS 3 aumenta FPS em jogos suportados.
+✔ Melhor custo para quem joga apenas em Full HD.
+❌ Contras:
+✖ Apenas 8GB de VRAM, pode ser um problema no futuro.
+✖ O barramento de 128-bit limita a largura de banda da memória.
+
+
+Coisas que a Nvidia tem e a AMD não tem:
+DLSS
+Nvdia: dlss3 = mais frames extras com IA + fps
+AMD: usa o FSR, não tem IA e tem mais latência.
+
+Frame com IA: amd tem algo parecido no fsr mas tem mais lag e mais ghosting.
+
+Nvenc av1: nvidia tem um muito superior que o da amd (relive).
+
+Nvidia reflex: menos latência nos jogos e a AMD não tem nenhuma tecnologia equivalente.
+
+
+  (explicação do video de fps) 1% low é o fps pior, o 0.0 low é o pior do pior
+
+Linha 50 da serie Nvidia
+
+  A NVIDIA é uma das maiores empresas de tecnologia do mundo, conhecida principalmente por suas GPUs (unidades de processamento gráfico), que são amplamente utilizadas em jogos, data centers, inteligência artificial e computação científica. Aqui estão algumas das principais práticas da NVIDIA em diferentes áreas:
+  1. Inovação Tecnológica
+  •	A NVIDIA investe fortemente em pesquisa e desenvolvimento para melhorar seus produtos e criar novas soluções, como as arquiteturas de GPU Ada Lovelace, Ampere e Hopper.
+  •	Desenvolve tecnologias como DLSS (Deep Learning Super Sampling), que usa IA para melhorar a qualidade gráfica dos jogos, e Ray Tracing, que simula efeitos de luz realistas.
+  •	Atua no setor de Inteligência Artificial (IA) com plataformas como a NVIDIA AI e a GPU CUDA, usadas em aprendizado de máquina e deep learning.
+  2. Computação de Alto Desempenho e Data Centers
+  •	Suas GPUs não são usadas apenas para jogos, mas também em supercomputadores e data centers.
+  •	A empresa desenvolve soluções como o NVIDIA DGX, que são servidores otimizados para IA.
+  •	Atua no segmento de cloud computing, fornecendo GPUs para serviços de nuvem como AWS, Google Cloud e Microsoft Azure.
+  3. Gaming e Esports
+  •	A NVIDIA domina o mercado de GPUs para games com suas placas GeForce RTX.
+  •	Investe em softwares como o GeForce Experience, que otimiza configurações gráficas e oferece funcionalidades como gravação e streaming.
+  •	Tem forte presença no mercado de monitores e acessórios para gamers, com tecnologias como G-SYNC.
+  4. Práticas Empresariais e Concorrência
+  •	A NVIDIA já foi criticada por práticas que limitam a concorrência, como o uso de exclusividades em hardware e software.
+  •	Tentou adquirir a ARM, uma das principais empresas de design de chips, mas a compra foi bloqueada por órgãos reguladores devido a preocupações com monopólio.
+  •	Mantém parcerias estratégicas com empresas como Microsoft, Tesla e Meta para expandir seu ecossistema.
+  5. Sustentabilidade e Responsabilidade Social
+  •	A empresa investe em iniciativas de computação sustentável, buscando reduzir o consumo de energia de suas GPUs.
+  •	Apoia a pesquisa em IA para saúde, incluindo o uso de deep learning para diagnóstico de doenças.
+  •	Promove diversidade e inclusão em tecnologia, com programas para incentivar a participação de mulheres e minorias no setor.
+  A NVIDIA continua crescendo e se expandindo para novas áreas, como computação quântica, robótica e metaverso (com a plataforma Omniverse). Seu impacto na indústria de tecnologia é enorme e suas decisões influenciam desde gamers até cientistas e engenheiros de IA.
+  
+  Realismo Revolucionário
+  A Arquitetura NVIDIA Blackwell proporciona toda a glória e realismo do Ray Tracing Completo. Experimente gráficos com qualidade cinematográfica e com velocidade sem precedentes graças as GeForce RTX Série 50, com RTX Cores de 4ª Geração, e aos avanços tecnológicos de renderização neural, acelerados com a 5ª Geração de Tensor Cores.
+  
+  
+  
+  NVIDIA DLSS 4
+  Velocidade e Gráficos Inigualáveis Impulsionados por IA.
+  O DLSS é um avanço revolucionário em tecnologias de renderização neural que utiliza IA para aumentar o FPS, reduzir a latência e aprimorar a qualidade de imagem. O incrível avanço do DLSS 4, traz o novo Multi Frame Generation e melhorias ao Super Resolution, impulsionado pelas placas de vídeo GeForce RTX™ Série 50 e os Tensor Cores de 5ª Geração. Ativar o DLSS em uma GeForce RTX é o melhor jeito para jogar suportado pela IA dos supercomputadores da NVIDIA em nuvem que estão em constante melhorias para o seu setup gamer.
+  
+  Criadores
+  Sua Vantagem Criativa com IA
+  NVIDIA Studio é a sua vantagem criativa. As GPUs GeForce RTX Série 50 desbloqueiam um desempenho transformador em edição de vídeo, renderização 3D e design gráfico. Experimente as acelerações RTX nas principais aplicações criativas, os Drivers líderes do NVIDIA Studio, projetados e continuamente atualizados para fornecer máxima estabilidade, e um conjunto de ferramentas exclusivas que aproveitam o poder do RTX para fluxos de trabalho criativos assistidos por IA.
+  
+
+Pesquisar sobre amd e intel:
+
+
+
+
+Aula 13.02.2025
+
+dicas para manutenção: como é o passo a passo de um atendimento de manutencao de pc:
+1- entregar uma os (ordem de servioço) documento de entrada.
+2- descrever todas as informações do pc se tem algo danificado etc.
+
+
+quando o pc bipa os unicos erros de bip sao por conta de memoria ram e placa de video.
+

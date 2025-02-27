@@ -198,3 +198,50 @@ dicas para manutenção: como é o passo a passo de um atendimento de manutencao
 
 quando o pc bipa os unicos erros de bip sao por conta de memoria ram e placa de video.
 
+
+aula 25.02.2025
+
+driver é um programa que vai ensinar como windows funciona 
+
+mac na rede é o endereço fisico dela ou seja, e o numero da maquina que é unico para cada maquina 
+
+como verificar: cmd/ terminal 
+
+ipconfig /all
+
+la vai aparecer todas as informações do pc e entre elas está o MAC da maquina.
+
+
+192 168 1 (10)
+
+
+aula 27.02.2025 
+
+criamos uma 3 maquina virtual e pingamos nas outras criadas na aula passada 
+
+com o ip: 192.168.1.(numero escolhido por vc)
+
+para fazer essa sincronização no virtual box apos criar a maquina vc entre:
+
+Na aba abaixo do vitual box tem uma opção de configuração de rede- botao direito- entrar na configuração de rede- Selecione a opção rede interna (no virtual box da maquina)
+
+Apos isso entre na sua maquina virtual na opção de rede (globinho_) - botao direito- abir configuração de rede - enthernet- alterar opção do adaptador- botao direito em ethernet- propriedades- protocolo iva4- propriedades- add numero de ip e mascara sub rede.
+
+apos isso entrar no firewal- opções avancadas- regras de entrada- habilitar- diagnostico de sistema de rede basico solicitação de eco ICMP (PV4-in)
+
+habilita todos entre no cmd e pinga as maquinas criadas e personalizadas.
+
+comandos:
+hostname: informa o nome da maquina 
+
+infoconfig /all : informa toda a configuração da sua maquina.
+
+ping: pinga a maquina na rede (com numero de IP ou nome da maquina)
+
+
+COMO FAZER COMPARTILHAMENTO DE PASTA:
+
+Entre em seu explorador de arquivos:
+este computador - C: ou o disco que vc quer armazenar os arquivos - cria uma pasta nele- botao direito na pasta criada - conceder acesso - pessoas especificas - selecione Todos - adcione o tipo de compartilhamento que quer exemplo: leitura/leitura e gravação.  aplique e a partir disso sua pasta se torna publica na rede.
+
+mas para isso vc precisa dar acesso para isso entre em: botao direito no icone da sua rede- Abrir configuração de rede e internet - Ethernet- alterar opções avancadas de compartilhamento- expandir a opção todas as redes- desabilite a opção de compartilhamento protegido por senha.

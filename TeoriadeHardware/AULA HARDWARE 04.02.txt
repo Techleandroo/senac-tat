@@ -51,6 +51,8 @@ Quando nos referimos a fontes com DC-DC, estamos falando de fontes de alimentaç
 
   Aula 11.02.2025
 
+  Falando sobre placa de videos NVIDIA AMD E INTEL
+
   pesquisar sobre os modelos da placa de video nvidia atual serie 50 e serie 40
   falar sobre a tecnologia 
   modelo 
@@ -191,15 +193,22 @@ Pesquisar sobre amd e intel:
 
 Aula 13.02.2025
 
+Falando sobre como funciona em uma empresa de manutenção. (OBS CRIEI UMA EMPRESA DO ZERO)
+PDF NOME: EMPRESA TECH GL
+
 dicas para manutenção: como é o passo a passo de um atendimento de manutencao de pc:
 1- entregar uma os (ordem de servioço) documento de entrada.
 2- descrever todas as informações do pc se tem algo danificado etc.
 
 
+
+Detectando problemas de bip:
 quando o pc bipa os unicos erros de bip sao por conta de memoria ram e placa de video.
 
 
 aula 25.02.2025
+
+REDES DE COMPUTADORES
 
 driver é um programa que vai ensinar como windows funciona 
 
@@ -212,10 +221,13 @@ ipconfig /all
 la vai aparecer todas as informações do pc e entre elas está o MAC da maquina.
 
 
-192 168 1 (10)
+Numero IP: 192 168 1 (10)
 
 
 aula 27.02.2025 
+
+REDES DE COMPUTADORES 
+
 
 criamos uma 3 maquina virtual e pingamos nas outras criadas na aula passada 
 

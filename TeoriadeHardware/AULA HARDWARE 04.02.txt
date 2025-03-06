@@ -228,6 +228,7 @@ aula 27.02.2025
 
 REDES DE COMPUTADORES 
 
+A sigla \\: significa rede
 
 criamos uma 3 maquina virtual e pingamos nas outras criadas na aula passada 
 
@@ -265,3 +266,30 @@ MAPEAMENTO DE PASTA: é voce transformar sua pasta como se fosse uma unidade dis
 Entre na sua maquina e pasta do host: e clique com botao direito- mapeamento de pasta - selecione a unidade tipo Z: U: etc.
 
 Confirme e a pasta estara mapeada mostrando na barra do meu computador como unidade.
+
+
+Aula 06.03.2025
+
+
+Aprendendo como mover sua maquina do virtual box para outras maquinas.
+
+Com virtual box aberto: seleciona a maquina que vc quer copiar/fazer o Appliance va em arquivos selecione a opção exmportar appliance ou aperte CLT+ E. selecone qual partição de disco vc quer colocar ex:area de trabalho disco D: E:. e aperte finish
+
+a partir disso a maquina virtual vai ser produzida e importada para o local que vc selecionou. 
+apos isso vc copia coloca em um pendrive ou salva de alguma maneira na maquina que vc quer instalar esse Vbox. 
+
+feito isso o proceso estara feito agora é entrar na sua maquina nova: entre na maquina virtual,arquivos, importar appliance ou CTL+L
+
+
+Como fazer uma pasta OCULTA $: 
+
+a pasta oculta serve para voce que tem a rede na empresa/escola etc, e quer deixar pastas com acesso para pessoas especificas.
+nisso vc criara uma pasta com o simbolo: ($) no final da pasta tornando-a oculta nao aparecendo na rede.
+
+Para isso voce cria a pasta, entra em propriedades, compartilhamento, compartilhamento avançado, clique no tick compartilhar pasta, (NOME DO COMPARTILHAMENTO) escreve o nome e no final é OBRIGATORIO COLOCAR: $ , adciona o nome aplique as configurações, Ok, propriedades novamente, compartilhamento, compartilhar, adicione todos, leitura/ ou leitura/gravação (depende do tipo de acesso que vc quer dar aos usuarios. compartilhe.
+
+a partir desse momento a pasta ficara oculta: verifique se ela nao esta aparecendo quando vc entrar na rede do pc: digitando \\nomedopc.
+
+
+Além de compartilhar pastas podemos também compartilhar outras coisas como impressora de uma maquina para outra: para fazer isso temos que entrar no pesquisar- impressora e scaner- selecione a impressora desejada que quer compartilhar, caso nao tenha add a impressora, apos isso botao direito na impressora- gerenciar- compartilhamento....... (precisa terminar a explicação).
+

@@ -153,3 +153,28 @@ o comando seria assim primeiro comando + | e o segundo comando
 o comando | faz listar varios comando ao msm tempo 
 
  mas para isso tem uma logica: ex: cat -n /etc/services | head -n200 | tail -n101 
+
+
+Aula 10.03.2025
+
+Configurando uma rede sem fio com roteadores residenciais,
+
+PASSO 1: OLHAR O MODELO DO ROTEADOR E PESQUISAR NA INTERNET PARA VER O MANUAL.
+
+PASSO 2: conectar o cabo de rede no roteador na porta LAN e depois no seu computador, apos isso fazer a conexão dos dois.
+
+PASSO 3: entre no terminal e digite se for no linux - ifconfig se for no windows if config lá aparecera o ip na barra de rede (usp)
+
+Passo 4: digitar route -n que aparecera o ip real depois digite ping e o numero do ip do roteador informado
+
+PASSO 5: conectar cabo de rede no roteador na entrada WAN e no seu mv8 ou na sua entrada de INTERNET
+
+PASSO 6: digitar o IP informado no seu crome,opera etc.
+
+PASSO 7: configurar o roteador no site que aparecera do roteador. 
+
+endereco ip do roteador 
+
+usuario e senha do equipamento
+
+sempre pesquisar como ressetar o equipamento para voltar no modo de fabrica

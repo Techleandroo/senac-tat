@@ -173,8 +173,34 @@ PASSO 6: digitar o IP informado no seu crome,opera etc.
 
 PASSO 7: configurar o roteador no site que aparecera do roteador. 
 
-endereco ip do roteador 
 
-usuario e senha do equipamento
+DICAS IMPORTANTES:
+SABER endereco ip do roteador 
+
+SABER usuario e senha do equipamento
 
 sempre pesquisar como ressetar o equipamento para voltar no modo de fabrica
+
+
+AULA 12.03.2025
+
+Iniciando um projeto residencial de rede sem fio (wifi | wireless)
+
+criamos duas contas para em sites que vamos utilizar nessa aula: uma no netacad e a outra no account.ui.
+
+o netacad vamos ultilizar o logion para usar o cisco, e o ui (unifi) vamos usar para fazer o redimensionamento da redes sem fio.
+
+
+apos isso faca o procedimento de configurações avançadas igual fizemos na aula anterior 10.03
+
+1-trocar o nome do roteador
+
+2-mudar o hostname do roteador- opções avançadas, a opção muda de acordo com o seu roteador no caso do tp link. vai em ADVANCED- NETWORK- la em baixo tem opções avançadas, e nessa opçaão estara o hostname (nome do roteador).
+
+3- configurar o DHCP- vai em internet nas configurações avançadas, internet- internet connection type- colocar em DHCP- as configurações depende do roteador no caso da tp- link tem uma opção dhcp server se tiver ativada e na opção internet estiver em dinamyc ip já esta ativada o DHCP.
+
+4-Trocar o ip do roteador: Normalmente vai estar na opção, LAN. Na lan temos que configurar o ip de acordo com o ip da empresa. exemplo no curso trocamos para a numeração 172.16.4.254 (172.16 numero padrão) .4 (numero do nosso grupo) .254 (numero padrão)
+
+5-Entrar no dhcp e mudar o ip adreess poll: nessa opção tera 2 opções para trocar o ip que seria o inicio e o final, isso seria o numero de roteadores que são permitidos conectar.  
+
+6-

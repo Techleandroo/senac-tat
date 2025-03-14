@@ -203,4 +203,45 @@ apos isso faca o procedimento de configurações avançadas igual fizemos na aul
 
 5-Entrar no dhcp e mudar o ip adreess poll: nessa opção tera 2 opções para trocar o ip que seria o inicio e o final, isso seria o numero de roteadores que são permitidos conectar.  
 
-6-
+6- Apos isso a rede foi configurada de acordo.
+
+
+
+AULA 14.03.2025
+
+
+Criando uma rede sem fio no CISCO PACKET TRACER 
+
+como fazer essa conexão simples no cisco. 
+
+primeiro no canto inferior esquerdo do app cisco tem as opções dos componentes disponiveis no app cisco. selecione os notebooks para a aba. apos isso selecione o roteador no icone do network devices: la tem varios tipos de roteadores portanto selecione o roteador desejado. 
+
+na aba de energia selecione o tipo de cabeamento. icone de um raio e ligue no notebooks e no roteador para manter a conexão.
+
+apos isso basta configurar os componentes.
+
+no notebooks: clique com botao direito: vai abrir uma aba do laptop e faca a configuração via ip config deixa em DHCP. apos isso verifique pingando o numero criado exemplo: numero mostrado no ipv4 adress: 192.168.0.100
+
+apos verificar feche a aba e vai na opção no prompt de comando. 
+ping o numero ip e verifique se esta correto.
+
+a partir disso voce configura o roteador. 
+
+FOTO DA INTERFACE DE CONFIGURAÇÃO. (INTERFACE DAS CONFIGURAÇÕES NO ROTEADOR 14/03/2025) CISCO.
+
+MUDAR O SSID: nome do wifi
+
+colocar o modo de segurança.
+
+depende do tipo ex: WPA personalizado. mas tem varios tipos e isso vc muda de acordo com o tipo de configuração.
+
+colocar senha. ex: passphrase: (nome da senha)
+
+salvar as configuraçoes e verificar se esta aparecendo a rede nos aparelhos.
+
+como notebooks e smartphone.
+
+nos smartphone é so clicar com o botao direito na aba config- wireless0- voce add o nome do SSID= nome da rede que esta configurada no roteador, coloca na opção correta do WPA: de acordo como foi feita no roteador ex: WPA-PSK que é o padrao. e na opção PSK PASS PHRASE: voce adciona a senha criada na rede.
+
+FOTO NO GITHUB Nome: tela smartphone colocando a rede wireless.
+

@@ -229,7 +229,7 @@ a partir disso voce configura o roteador.
 
 FOTO DA INTERFACE DE CONFIGURAÇÃO. (INTERFACE DAS CONFIGURAÇÕES NO ROTEADOR 14/03/2025) CISCO.
 
-MUDAR O SSID: nome do wifi
+MUDAR O SSID: nome do wifi 
 
 colocar o modo de segurança.
 
@@ -245,3 +245,41 @@ nos smartphone é so clicar com o botao direito na aba config- wireless0- voce a
 
 FOTO NO GITHUB Nome: tela smartphone colocando a rede wireless.
 
+
+
+AULA:17/03/2025
+
+
+verificando sobre o sinal da rede sem fio: 
+esses sites mostra como seria a camada de sinal da rede: https://wifi.ui.com/ https://design.ui.com/projects/93ad933e-a2d0-4b9a-adea-cdb071b99c18/plans/default
+
+cuidado pois nos sites os sinais nao contabilizam paredes. portanto fique esperto pois parede faz perca de sinal em 50%
+
+
+AULA 21.03.2025
+
+
+PROJETO BATOCERA: 
+
+O projeto BATOCERA é um projeto que vamos fazer a criação de um emulador no nosso desktop e no notebook.
+
+Intalar o mint na maquina nova
+
+pesquisar no mint o gerenciamento grafico de partição: gparted apagar as partições do hd de cima pra baixo.
+
+instalação dos linux uma no desktop e outro no notebook.
+
+seguir o passo a passo da instalação do linux mint.
+
+
+
+
+comando para verificar a placa de video no desktop: ubuntu -drivers
+
+Como corrigir os problemas da placa de video:
+
+deixar o kernel atualizado na versão recente.
+
+instalar o drive da placa.
+
+caso o driver nao subir provavelmente é um problema da nveou: (drive de video da nvidia open dentro do kernel)

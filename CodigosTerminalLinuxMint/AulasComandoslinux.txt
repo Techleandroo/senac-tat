@@ -1,0 +1,307 @@
+git pull:
+O comando git pull busca as alteraçoes mais recentes do repositorio remoto e as mescla merge automaticamente no branch atual do repositório local. 
+
+git status:
+O comando git status exibe o estado atual do repositorio Git. Ele mostra:
+Quais arquivos foram modificados, adicionados ou removidos.
+Se há mudanças pendentes para commit.
+Se há arquivos não rastreados pelo Git.
+O branch atual e se ele está atualizado em relação ao repositório remoto.
+-----------------------------------------------------------------------------
+
+git add .
+O comando git add . adiciona todas as alterações (arquivos novos, modificados e deletados) do diretório atual ao staging area, preparando-os para o próximo commit.
+porque do . ?
+O (.)no comando git add . significa "tudo no diretório atual e subdiretórios".
+Sem o . você teria que especificar arquivos individualmente, por exemplo: git add arquivo.txt 
+Já com git add ., todas as mudanças no projeto são adicionadas de uma vez, facilitando o processo.
+-----------------------------------------------------------------------------
+
+git commit -m 
+O comando git commit -m "mensagem" cria um commit com as alterações adicionadas ao staging area, registrando-as no histórico do Git.
+O -m "mensagem" permite adicionar uma descrição do commit diretamente no terminal, sem abrir um editor de texto.
+Exemplo:
+bash
+Copiar
+Editar
+git commit -m "Corrigido bug na tela de login"
+-----------------------------------------------------------------------------
+
+COMANDOS LINUX:
+
+
+MintUpdate: gerenciador de atualizações do Linux Mint
+Repositório: fontes online de pacotes de software
+Mirrors (Espelho): servidores que armazenam cópias dos repositórios do Linux Mint. Escolher um mirror rápido pode acelerar downloads de pacotes e atualizações.
+
+Terminal: Ctrl Alt T
+Terminal: Ctrl Alt F1	Ctrl Alt F7
+Ambiente Gráfico: Ctrl Alt Backspace
+Limpar Tela: Ctrl L
+-----------------------------------------------------------------------------
+
+sudo
+sudo apt update	--> Atualizar as listas de Software
+sudo apt upgrade -> Atualizar os Software
+sudo apt upgrade --fix-missing --> UTILZIAR SOFTWARE SE ACONTECER ERRO NA INSTALAÇÃO
+sudo apt autoremove -> Remover Software Desnecessários
+sudo apt autoclean --> Limpar Software baixados
+sudo reboot 	   --> Reiniciar o Linux Mint
+
+
+Atualizar o Linux Mint (MintUpdate ou Terminal)
+Atalho Terminal: Ctrl + Alt + T
+sudo apt update			#atualizar as listas do apt
+sudo apt upgrade		#atualizar os aplicativos
+sudo apt full-upgrade	#forçar uma atualização completa
+sudo apt dist-upgrade	#forçar uma atualização do Kernel
+sudo apt autoremove		#remover aplicativos desnecessários
+sudo apt autoclean		#remover caches de instalação
+-----------------------------------------------------------------------------
+
+ COMANDOS SUDO: 
+
+ O comando sudo (Super User DO) permite executar comandos como superusuário (root) no Linux. Isso é útil para tarefas administrativas, como instalar programas, modificar arquivos de sistema e gerenciar usuários.
+
+
+3- sudo apt update 
+4- subo apt upgrade
+5- sudo apt update
+6- sudo apt upgrade
+7- | fix.missing
+8- sudo apt upgrade --fix-missing
+9- sudo apt altoremove
+10- sudo apt autoremove
+11- sudo apt autoclean
+12- sudo reboot
+13- dpkg 1
+14- dpg -1
+15- dpkg -1
+16- sudo apt install curl~
+17- sudo apt instal
+18- sudo curl-fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+19- sudo apt instal *-fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+20- sudo apt instal brave
+21- sudo apt install brave-browser
+23- sudo curl -fsS https://dl.brave.com/install.sh | sh~
+24- sudo curl -fsS https://dl.brave.com/install.sh | sh
+25- sudo instal wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install
+26- sudo apt wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install
+27- sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install
+28- wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+29- sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+30  sudo dpkg -i google-chrome-stable_current_amd64.deb~
+31  sudo dpkg -i google-chrome-stable_current_amd64.deb
+32  sudo apt-get -f install
+33  sudo apt intall cromium-browser
+
+35  sudo apt install cromium
+36  sudo apt install cromium
+37  sudo dpkg -i google-chrome-stable_current_amd64.deb
+38  sudo apt install cromium
+39  sudo apt install cromium
+40  sudo apt install cromium-browser
+41  sudo apt install chromium-browser
+42  sudo apt install snapd
+43  sudo install cromium
+44  sudo apt install chromium-browser
+45  sudo install chromium-browser
+46  sudo apt install chromium-browser
+47  sudo apt install chromium
+48  sudo install komorebi
+49  sudo apt install wallpapoz
+50  sudo apt install variety
+51  sudo apt install komorebi
+52  sudo apt isntall variety
+53  cinnamon-settings panel
+54  sudo apt update
+55  dconf reset -f /org/cinnamon/
+56  sudo apt install plank
+57  sudo apt install git vim
+58  sudo apt install linux-oem-24.04b
+59  sudo apt install kolourpaint
+60  sudo install notepadQQ
+61  sudo apt isntall notepadqq
+62  sudo apt install notepadqq vlc audacity kdenlive kazam
+
+exemplos de comandos e instalações que ja fiz nas aulas de linux. 
+-----------------------------------------------------------------------------
+
+COMANDO GIT:
+O git é um sistema de controle de versões distribuído, usado para rastrear mudanças em código-fonte e colaborar com outros desenvolvedores.
+
+git
+git config
+--global user.name "Techleandroo"
+--get. user.name "Techleandroo"
+git config --global user.name "Techleandroo"
+
+git congfig  --globall user.name "Techleandroo"
+git config --global user.name "Techleandroo"
+git config --global git list
+git config --list
+git clone https://github.com/Techleandroo
+git clone https://github.com/Techleandroo/senac-tat
+exit
+history
+-----------------------------------------------------------------------------
+
+
+Aula dia 03.02.2025
+
+ultimos comandos basicos que vamos ultilizar 
+
+comandos basicos de arquivos:
+
+comando ls: responsavel por listar arquivos e diretorios
+ls é os arquivos que ficam na pasta gerenciador de arquivos
+
+ls -l: mostra a lista do meu gerenciador de arquivos: é a msm coisa q clicar no icone de arquivos.
+
+ls -lh: significa humano. 
+mostra o arquivo e os tamanhos do arquivo
+
+ls -lha: mostra tudo por exemplo arquivos ocutos que estao no diretorio/pasta
+
+detalhe importante!
+sempre que no terminal aparecer ().)na frente sao arquivos ocutos
+
+cada cor significa um tipo de arquivo diferente no terminal
+
+link dos comandos ls https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08.html#comando-ls
+
+comando cd
+
+o objetivo do comando é mover ou andar entre os diretorios no terminal 
+
+o comando cd espera eu passar uma ação: 
+
+ex: se eu escrever no terminal cd nao aparece nada 
+mas se eu escrever cd/ muda a forma
+
+
+pwd: mostra a sua mudança
+
+/significa boot ou raiz no linux 
+
+tudo no wind comeca em \
+
+voltar para onde comecou:
+
+cd - volta para o diretorio anterior antes da mudanca
+
+cada sigla representa um diretorio.
+
+comando para criar diretorios
+
+a partir dai criamos nossa estrutura mas para isso tem q estar no diretorio pessoal
+
+cd ~ 
+
+APOS ISSO VC VE SE ESTA NO DIRETORIO CERTO 
+
+E ESCREVE: (mkdir) e o nome do diretorio em maiusculo apos isso escreve ls e ve se seu diretorio foi criado
+
+para entrar no diretorio feito 
+
+Cd nome do diretorio
+
+SEMPRE FICA O /NO FINAL POIS MOSTRA Q É UM DIRETORIO
+
+
+ls -lh mostra oq tem no diretorio 
+
+para criar diretorios dentro da pasta
+
+mkdir -v: modo detalhado
+
+mkdir -v NOME QUE VAI COLOCAR 
+
+EXEMPLO: mkdir -v TAT PEN ITA CAS 
+
+CRIA 3 PASTAS, se colocar 1 nome cria uma pasta e assim por diante
+
+para ver se deu certo
+
+ls-lh 
+
+se tiver tud certo vai aparecer o nome dos diretorios feitos
+
+ex: CAS ITA PEN TAT
+
+proxima etapa: criar arquivos
+
+comando echo: imprime na tela oque vamos escrever ex: eco senac
+
+vai aparecer
+
+mas se quisermos fazer um arquivo 
+
+echo >NOME DO ARQUIVO.TXT 
+
+Outo comando para criar arquivos
+
+touch + nome do arquivo
+
+ex: touch sesc.TXT
+
+a diferenca dos dois é que o echo tem conteudo e o touch cria um arquivo vazio 
+
+
+comando para listar o conteudo do arquivo: oque tem dentro do arquivo 
+
+comando: cat: lista o comando para ver oque tem dentro
+nao é possivel alterar
+
+cat -n nome do arquivo: mostra a quantidade de linhas que tem no arquivo
+
+ex: cat -n senac.txt 
+
+aparece 1 linha 
+
+
+cat -n / : abre arquivos grandes
+
+exemplo: cat -n /
+mostra todas as linhas do arquivo 
+
+
+comando para ver o arquivo com menos linha 
+
+head / nome do arquivo
+
+exemplo: head /etc/services 
+
+mostra as 10 primeiras linha do arquivo
+
+facilita para ver os arquivos. e nesse comando tem a opção de numero de linha 
+
+
+ex: head -n20 /etc/services
+
+mostra as 20 linhas do arquivos e assim por diante
+
+comando tail é diferente do comando head. pois ele lista o final do arquivo
+
+exemplo: tail /etc/services
+
+lista as 10 ultimas linhas.
+
+tail -n20 mostra as 20 ultimas linhas do arquivo e assim por diante
+
+exemplo: tail -n20 etc/services
+
+mas podemos usar dois comandos juntos ex 
+
+cat -n nome do arquivo + | head 
+
+o comando seria assim primeiro comando + | e o segundo comando
+
+o comando | faz listar varios comando ao msm tempo 
+
+ mas para isso tem uma logica: ex: cat -n /etc/services | head -n200 | tail -n101 
+
+
+
+
+

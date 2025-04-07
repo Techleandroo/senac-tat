@@ -1,160 +1,3 @@
-Aulas:
-
-aula dia 03.02.2025
-
-ultimos comandos basicos que vamos ultilizar 
-
-comandos basicos de arquivos:
-
-comando ls: responsavel por listar arquivos e diretorios
-ls é os arquivos que ficam na pasta gerenciador de arquivos
-
-ls -l: mostra a lista do meu gerenciador de arquivos: é a msm coisa q clicar no icone de arquivos.
-
-ls -lh: significa humano. 
-mostra o arquivo e os tamanhos do arquivo
-
-ls -lha: mostra tudo por exemplo arquivos ocutos que estao no diretorio/pasta
-
-detalhe importante!
-sempre que no terminal aparecer ().)na frente sao arquivos ocutos
-
-cada cor significa um tipo de arquivo diferente no terminal
-
-link dos comandos ls https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08.html#comando-ls
-
-comando cd
-
-o objetivo do comando é mover ou andar entre os diretorios no terminal 
-
-o comando cd espera eu passar uma ação: 
-
-ex: se eu escrever no terminal cd nao aparece nada 
-mas se eu escrever cd/ muda a forma
-
-
-pwd: mostra a sua mudança
-
-/significa boot ou raiz no linux 
-
-tudo no wind comeca em \
-
-voltar para onde comecou:
-
-cd - volta para o diretorio anterior antes da mudanca
-
-cada sigla representa um diretorio.
-
-comando para criar diretorios
-
-a partir dai criamos nossa estrutura mas para isso tem q estar no diretorio pessoal
-
-cd ~ 
-
-APOS ISSO VC VE SE ESTA NO DIRETORIO CERTO 
-
-E ESCREVE: (mkdir) e o nome do diretorio em maiusculo apos isso escreve ls e ve se seu diretorio foi criado
-
-para entrar no diretorio feito 
-
-Cd nome do diretorio
-
-SEMPRE FICA O /NO FINAL POIS MOSTRA Q É UM DIRETORIO
-
-
-ls -lh mostra oq tem no diretorio 
-
-para criar diretorios dentro da pasta
-
-mkdir -v: modo detalhado
-
-mkdir -v NOME QUE VAI COLOCAR 
-
-EXEMPLO: mkdir -v TAT PEN ITA CAS 
-
-CRIA 3 PASTAS, se colocar 1 nome cria uma pasta e assim por diante
-
-para ver se deu certo
-
-ls-lh 
-
-se tiver tud certo vai aparecer o nome dos diretorios feitos
-
-ex: CAS ITA PEN TAT
-
-proxima etapa: criar arquivos
-
-comando echo: imprime na tela oque vamos escrever ex: eco senac
-
-vai aparecer
-
-mas se quisermos fazer um arquivo 
-
-echo >NOME DO ARQUIVO.TXT 
-
-Outo comando para criar arquivos
-
-touch + nome do arquivo
-
-ex: touch sesc.TXT
-
-a diferenca dos dois é que o echo tem conteudo e o touch cria um arquivo vazio 
-
-
-comando para listar o conteudo do arquivo: oque tem dentro do arquivo 
-
-comando: cat: lista o comando para ver oque tem dentro
-nao é possivel alterar
-
-cat -n nome do arquivo: mostra a quantidade de linhas que tem no arquivo
-
-ex: cat -n senac.txt 
-
-aparece 1 linha 
-
-
-cat -n / : abre arquivos grandes
-
-exemplo: cat -n /
-mostra todas as linhas do arquivo 
-
-
-comando para ver o arquivo com menos linha 
-
-head / nome do arquivo
-
-exemplo: head /etc/services 
-
-mostra as 10 primeiras linha do arquivo
-
-facilita para ver os arquivos. e nesse comando tem a opção de numero de linha 
-
-
-ex: head -n20 /etc/services
-
-mostra as 20 linhas do arquivos e assim por diante
-
-comando tail é diferente do comando head. pois ele lista o final do arquivo
-
-exemplo: tail /etc/services
-
-lista as 10 ultimas linhas.
-
-tail -n20 mostra as 20 ultimas linhas do arquivo e assim por diante
-
-exemplo: tail -n20 etc/services
-
-mas podemos usar dois comandos juntos ex 
-
-cat -n nome do arquivo + | head 
-
-o comando seria assim primeiro comando + | e o segundo comando
-
-o comando | faz listar varios comando ao msm tempo 
-
- mas para isso tem uma logica: ex: cat -n /etc/services | head -n200 | tail -n101 
-
-
 Aula 10.03.2025
 
 Configurando uma rede sem fio com roteadores residenciais,
@@ -244,6 +87,7 @@ como notebooks e smartphone.
 nos smartphone é so clicar com o botao direito na aba config- wireless0- voce add o nome do SSID= nome da rede que esta configurada no roteador, coloca na opção correta do WPA: de acordo como foi feita no roteador ex: WPA-PSK que é o padrao. e na opção PSK PASS PHRASE: voce adciona a senha criada na rede.
 
 FOTO NO GITHUB Nome: tela smartphone colocando a rede wireless.
+<<<<<<< HEAD:CodigosTerminalLinuxMint/Aulas do prof vaamonde.txt
 
 
 
@@ -283,3 +127,5 @@ deixar o kernel atualizado na versão recente.
 instalar o drive da placa.
 
 caso o driver nao subir provavelmente é um problema da nveou: (drive de video da nvidia open dentro do kernel)
+=======
+>>>>>>> 548a8a28153630149c2c2810a1ea9f5bf0361da5:Redes de computadores/Aulasderede.txt

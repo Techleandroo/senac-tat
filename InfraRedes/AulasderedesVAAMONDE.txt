@@ -31,3 +31,9 @@ tiPO de redes:
 LAN
 WAN 
 WLAN
+
+
+
+
+
+

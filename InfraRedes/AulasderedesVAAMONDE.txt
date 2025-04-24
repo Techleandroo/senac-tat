@@ -32,8 +32,21 @@ LAN
 WAN 
 WLAN
 
+regra de redes: 
+
+Por padrão todas as portas de switch estão ligadas. shot dow( ligar) 
+
+E por padrão todas as portas de roteadores estão desligadas.
 
 
+metodos de comunicação de redes: 
+quais sao os 3 metodos.
+
+todo e qualquer equipamento de redes que oferece serviços de rede é IP static.
+pores os dispositivos finais que são conectados na redes podem ser tanto static quanto nao static.
+
+
+sempre static - numero do ip- mascara padrão sempre é 255
 
 
 

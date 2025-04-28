@@ -3,4 +3,4 @@ IPv4 address: ipconfig
 MAC Address: getmac
 
 ping: 192.168.1.1
-ping: 192.168.
+ping: 192.168.1.255

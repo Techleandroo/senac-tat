@@ -1,0 +1,50 @@
+            !Aulas de infra de Redes. 
+            !FOCADO NO CORPORATIVO 
+
+
+    !Topologia logica:
+    Topologia lógica se refere à forma como os dados trafegam pela rede, ou seja, como os dispositivos se comunicam entre si, independentemente 
+    da disposição física dos cabos ou equipamentos.
+    Ela descreve o fluxo de dados e o comportamento lógico da rede, não sua aparência física.
+
+    
+    !Topoligia fisica: 
+    Topologia física se refere à forma real e concreta como os dispositivos e cabos estão fisicamente organizados em uma rede.
+    Ela mostra como os computadores, switches, roteadores, hubs e outros dispositivos estão conectados de fato, ou seja, a estrutura visível 
+    da rede.
+
+
+    !Criamos uma infra de rede residencial e empresarial baseado na aula de hoje: 
+
+ 
+
+    !Dispositivos de meio: 
+    Passivo e ativo: 
+
+    !Passivo cabeamento: 
+    Tudo que é conexão, cabos 
+ 
+
+
+    !Tipo de redes: 
+    LAN
+    WAN 
+    WLAN
+
+    !regra de redes: 
+    Por padrão todas as portas de switch estão ligadas. shot dow( ligar) 
+
+    E por padrão todas as portas de roteadores estão desligadas.
+
+
+    !metodos de comunicação de redes: 
+    quais sao os 3 metodos.
+
+    todo e qualquer equipamento de redes que oferece serviços de rede é IP static.
+    pores os dispositivos finais que são conectados na redes podem ser tanto static quanto nao static.
+
+
+    sempre static - numero do ip- mascara padrão sempre é 255
+
+
+

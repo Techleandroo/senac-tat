@@ -1,6 +1,7 @@
 Aulas de redes leandro 
 
     !Protocolo
+     é um conjunto de regras ou normas que define como deve ser feita uma comunicação, uma ação ou um procedimento, dependendo do contexto.
     
     !IP
     
@@ -36,19 +37,74 @@ Aulas de redes leandro
     
     !O Que acontece quando um Pacote não chega até o destino
     
-    !TCP: 
+    !TCP:
+    O protocolo tcp ele percebe que o pacote nao foi enviado e reenvia novamente.
+    como funciona ?
+    O tcp percebe que o arquivo nao chegou porque nao recebeu uma confirmação ACK. 
+    nisso ele faz a retransmissão mandando o arquivo novamente.
+    garantindo que tudo chegue na ordem certa.
+
+    Vantagens: Entregue de forma correta.
+    Desvantagem: atraso.
+
+    Muito usado em arquivos para fazer download de um arquivo.
+
     
     !UDP
+    O protocolo UDP diferente do TCP ele nao reenvia ocasionando a perda.
+    usado muito em video chamada ex: whats.
+
+    O audio(pacote) é enviado para o destinatario porem se ocorrer alguma perda o pacote chega ao destino sem todas as partes do pacote.
+    ex: falou alguma palavra e o audio chegou cortado pela metade.
+
+    vantagens: mais rapido
+    Desvantagem: perca de partes do pacote.
+
+    Conclusão o TCP é usado para nao ocorrer falhas.
+    O UDP é usado 
+
     
-    !Proxy 
+    !Proxy
     
-    !Quais as Funções do PROXY:   
+    
+    
+    
+    proxy é uma ferramenta que faz a intermediação entre a internet(servidor) e voçê.
+    podendo ter varias finalidades dependendo de como é configurado.
+    ele pode proteger, controlar, acelerar e registrar seu acesso na rede.
+
+    ou seja é uma ferramenta que usa protocolos para tais finalidades.
+    proteger, controlar, filtrar ou redirecionar conexões de rede.
+
+    protocolos que ele usa:
+    HTTP (para navegar em sites)
+    HTTPS (para conexões seguras)
+    SOCKS (para tráfego geral).
+
+    uma camada a mais na comunicação.
+    
+
+    
+    !Quais as Funções do PROXY:
+
+    segurança filtra sites perigosos, bloqueando acesso.
+    controlar acesso restringe ou permite acesso a determinado sites. ex em escola ou empresa.
+    privacidade/anonimato esconder endereços real, para o site ver o IP do proxy
+    monitoramento- registra os sites acessados pelo usuario
+    
     
     !Firewall: 
+    É uma ferramenta de segurança que controla o trafego da rede entre diferentes sistemas, como objetivo de proteger
+    a rede contra acesso nao autorizado.
+
+
+    
     
     !Portas
     
     !Portas 80, 110, 25, 21, 23
     
     !DNS
+
+    
 

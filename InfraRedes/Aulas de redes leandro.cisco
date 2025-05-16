@@ -101,10 +101,30 @@ Aulas de redes leandro
     
     
     !Portas
+    São os canais logicos usados para indentificar serviços especificos dentro de um dispositivo.
+
     
     !Portas 80, 110, 25, 21, 23
-    
+    80= porta de HTTP função acesso a site no seu navegador. 
+    110=porta de POP3 função porta de receber email
+    25= porta SMTP função enviar emails.
+    21= porta FTP funçãoa tranferemcia de arquivos
+    23= porta que usa o protocolo Telnet que permite conexãp remota a outro computador para administração.
+
     !DNS
+    Responsavel pela tradução de dominio em endereço ip
+    exemplo: gogle.com para 142.250.190.78
+
+    usado a porta 53 UDP para consulta simples
+
+    DHCP= comando para pedir ao getway ip novo.
+
+    ipconfig /release = desliga o seu ip gerado pelo DHCP
+
+    ipconfig /renew
+    ---------------------------------------------------------------
+
+    
 
     
 

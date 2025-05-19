@@ -1,0 +1,25 @@
+Objetivo da aula de hoje: 12/05/2025
+
+#01_ Início da Topologia Física do Cenário B
+
+#02_ Início da Topologia Lógica do Cenário B
+
+#03_ Configuração Básica Router e Switch Cenário B
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-002-ConfiguracaoBaseSwitchesRouter.md
+
+
+
+
+#03_ Cálculo de Endereço de Rede Cenário B
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-001-CalculoDeSubrede-Cenario-B.md
+
+/27 = 255.255.255.224
+DHCP: 169.254.X.X/16
+
+clock set
+enable secret 123@senac
+username senac
+username seu_nome
+username admin
+password 123@senac
+ip domain-name senac.br

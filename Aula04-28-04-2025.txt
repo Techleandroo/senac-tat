@@ -1,0 +1,25 @@
+Objetivo da aula de hoje: 28/04/2025 
+
+#01_ Acesso ao Material Teórico das Aulas:
+https://github.com/vaamonde/infraestrutura
+
+#02_ Acesso ao Material Prático das Aulas:
+https://github.com/vaamonde/infra-cisco
+
+#03_ Início do Projeto Prático Cisco - CENÁRIO-A
+https://github.com/vaamonde/infra-cisco/tree/main/02-project/01-cenario-A
+
+#04_ Configuração Base do Switch Layer 2 2960
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-001-ConfiguracaoBase-Switch-2960.md
+
+Cabling: Furukawa FCP
+---------------------
+Level-1: UC-1 até UC-4 Suporte
+Level-2: Network: Switch LAN
+				  Router WAN
+Level-3: Server.: Windows
+				  GNU/Linux
+Level-4: Cloud..: AWS, GCP, Azure
+Level-5: Security: Firewall:
+				   Blue e Red Teams
+---------------------------------

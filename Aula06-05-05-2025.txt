@@ -1,0 +1,10 @@
+Objetivo da aula de hoje: 05/05/2025
+
+#01_ Configuração do SSH do Switch L2 2960 (CONTINUAÇÃO)
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-004-ConfiguracaoSSH-Switch-2960.md
+
+#02_ Configuração Base do Router 1941
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-005-ConfiguracaoBase-Router-1941.md
+
+#03_ Configuração da Interface LAN do Router 1941
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-006-ConfiguracaoInterfaceLAN-Router-1941.md

@@ -1,0 +1,10 @@
+Objetivo da aula de hoje: 30/04/2025
+
+#01_ Configuração do VTY do Switch L2 2960
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-002-ConfiguracaoVTY-Switch-2960.md
+
+#02_ Configuração do SVI do Switch L2 2960
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-003-ConfiguracaoGatewaySVI-Switch-2960.md
+
+#03_ Configuração do SSH do Switch L2 2960
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-004-ConfiguracaoSSH-Switch-2960.md

@@ -1,0 +1,10 @@
+Objetivo da aula de hoje: 16/05/2025
+
+#01_ Configuração das VLAN´s e SVI
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-003-ConfiguracaoDasVLAN-SVI.md
+
+#02_ Configuração dos Trunks
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-004-ConfiguracaoDosTrunks.md
+
+#03_ Configuração dos Gateways
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-005-ConfiguracaoDosGateway.md

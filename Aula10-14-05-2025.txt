@@ -1,0 +1,4 @@
+Objetivo da aula de hoje: 14/05/2025
+
+#01_ Cálculo de Endereço de Rede Cenário B
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-001-CalculoDeSubrede-Cenario-B.md

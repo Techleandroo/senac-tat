@@ -1,0 +1,6 @@
+Objetivo da aula de hoje: 09/05/2025
+
+#01_ Backup das Configurações do Cisco IOS
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-008-BackupConfiguracaoCiscoIOS-Switch-Router.md
+
+#02_ Início da Topologia Física do Cenário B

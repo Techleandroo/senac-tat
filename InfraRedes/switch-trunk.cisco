@@ -1,0 +1,27 @@
+Por padrão as configurações de trunk é so em switch embora tenha no roteador
+
+    !Configurando os trunks (troncos) no Switch 3650
+    enable
+        config terminal
+            interface range GigabitEthernet 1/0/1 - 9
+                description Interface de Trunk
+                switchport mode trunk
+                switchport nonegotiate
+                end
+write
+
+!Visualizando as configurações
+show running config
+show interfaces status
+show interface trunk
+----------------------------------------------
+!configuração do switch 2960
+enable
+    config terminal
+        interface range GigabitEthernet 0/1 - 2, fastEthernet 0/23 - 24
+            description Interface de Trunk
+            switchport mode trunk
+            switchport nonegotiate
+            end
+write
+

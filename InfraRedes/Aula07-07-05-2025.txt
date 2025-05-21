@@ -1,0 +1,20 @@
+Objetivo da aula de hoje: 07/05/2025
+
+#01_ Configuração do Serviço de DNS Server
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-007-ConfiguracaoDNSv4Server-Basico-Cenario-A.md
+
+#02_ Backup das Configurações do Cisco IOS
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/01-cenario-A/Etapa-008-BackupConfiguracaoCiscoIOS-Switch-Router.md
+
+1_ getmac
+2_ arp -a
+3_ ipconfig /all
+4_ netstat -an
+5_ ipconfig /flushdns
+   ping google.com
+   ipconfig /displaydns
+====================================
+ftp ftp.unicamp.br
+Usuário: anonymous (sem senha)
+====================================
+6_ nslookup

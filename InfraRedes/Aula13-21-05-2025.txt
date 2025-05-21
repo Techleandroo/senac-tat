@@ -1,0 +1,10 @@
+Objetivo da aula de hoje: 21/05/2025 - CONTINUAÇÃO
+
+#01_ Configuração do DHCP Server (CONCLUÍDO)
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-006-ConfiguracaoDHCPv4Server-Cenario-B.md
+
+#02_ Configuração da Interface Roteada do Switch (CONCLUÍDO)
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-007-ConfiguracaoDaInterfaceRoteada-Switch-3650.md
+
+#03_ Configuração da Rota Estática do Switch L3 e Router
+https://github.com/vaamonde/infra-cisco/blob/main/02-project/02-cenario-B/Etapa-008-ConfiguracaoDaRotaEstaticaPadrao-Routers-Switch.md

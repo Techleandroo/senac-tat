@@ -1,0 +1,16 @@
+Objetivo da aula de hoje: 23/04/2025 
+
+#01_ Acesso ao Material Teórico das Aulas:
+https://github.com/vaamonde/infraestrutura
+
+#02_ Acesso ao Material Prático das Aulas:
+https://github.com/vaamonde/infra-cisco
+
+#03_ Início do Projeto Prático Cisco - CENÁRIO-A
+https://github.com/vaamonde/infra-cisco/tree/main/02-project/01-cenario-A
+
+#04_ Criação da Topologia Física de Rede:
+https://www.youtube.com/watch?v=5grhv0DFZNo
+
+#05_ Documentação da Topologia Lógica de Rede:
+https://www.youtube.com/watch?v=pdt0AdwQwX8

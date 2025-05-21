@@ -1,0 +1,9 @@
+Objetivo da aula de hoje: 16/04/2025 FINALIZAÇÃO CONTEÚDO TEÓRICO
+
+#01_ Acesso ao Material Teórico das Aulas:
+https://github.com/vaamonde/infraestrutura
+
+#02_ Acesso ao Material Prático das Aulas
+https://github.com/vaamonde/infra-cisco
+
+#03_ Iniciar o Cisco Packet Tracer no seu Computador com sua Conta do Netacad

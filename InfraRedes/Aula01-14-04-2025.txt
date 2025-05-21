@@ -1,0 +1,11 @@
+Objetivo da aula de hoje: 14/04/2025 Início UC-5
+
+#01_ Acesso ao Material Teórico das Aulas:
+https://github.com/vaamonde/infraestrutura
+
+#02_ Acesso ao Material Prático das Aulas
+https://github.com/vaamonde/infra-cisco
+
+#03_ Iniciar o Cisco Packet Tracer no seu Computador com sua Conta do Netacad
+
+#04_ Autenticar no Site do https://www.netacad.com/ para acessar o conteúdo On-Line
